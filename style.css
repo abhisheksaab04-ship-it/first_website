@@ -5,7 +5,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-weight: 800; /* Makes all text look bold */
   margin: 0;
-  background-image: url('https://www.transparenttextures.com/patterns/cubes.png');
+  background-image: url("project1.png");
   background-color: green;
   color: white; 
   overflow-x: hidden;
